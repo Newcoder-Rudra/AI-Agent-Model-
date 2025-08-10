@@ -10,6 +10,3 @@ processing (NLP), multimodal understanding, and large-scale dietary databases, a
 can generate dynamic meal plans, recommend smart food swaps, and explain nutritional choices—all 
 tailored to the individual. For this created a Nutrition AI Agent.
 
-
-And also Created Another AI Agent in which AI Agent is integrated to get calendar events using open AI chat model 
-using n8n AI Automation Tool
